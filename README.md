@@ -1,4 +1,4 @@
-# Яндекс Прилавок — Sprint 5 (API Manual QA)
+# Яндекс Прилавок — API Manual QA
 
 Ручное тестирование API сервиса **Яндекс Прилавок 3.1.1**: проверка REST/XML endpoints, негативные сценарии, валидация параметров и оформление баг-репортов.
 
@@ -39,7 +39,7 @@
 
 ## Ссылки
 
-- **Общая таблица спринта:** [Google Sheets — Sprint 5](https://docs.google.com/spreadsheets/d/1ExH5hJQVSB176ZGiANEou0rDb-ka-0HkGd2agBQe5AI/edit)
+- **Общая таблица проекта:** [Google Sheets — Яндекс Прилавок API](https://docs.google.com/spreadsheets/d/1ExH5hJQVSB176ZGiANEou0rDb-ka-0HkGd2agBQe5AI/edit)
 - **Чек-лист и результаты:** [gid=2006427015](https://docs.google.com/spreadsheets/d/1ExH5hJQVSB176ZGiANEou0rDb-ka-0HkGd2agBQe5AI/edit?gid=2006427015#gid=2006427015)
 - **Баг-репорты:** [gid=290693736](https://docs.google.com/spreadsheets/d/1ExH5hJQVSB176ZGiANEou0rDb-ka-0HkGd2agBQe5AI/edit?gid=290693736#gid=290693736)
 
